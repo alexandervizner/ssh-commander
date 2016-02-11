@@ -5,6 +5,8 @@
 *.o
 *.so
 *.pyc
+__pycache__
+
 
 *.7z
 *.dmg
@@ -16,7 +18,6 @@
 
 *.log
 *.sqlite
-
 .DS_Store
 ehthumbs.db
 Icon
