@@ -1,0 +1,1758 @@
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 92, in handle_request
+    match_info.handler, type(resp), self._middlewares)
+AssertionError: Handler <class 'web.views.group.Group'> should return response instance, got <class 'dict'> [middlewares []]
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 92, in handle_request
+    match_info.handler, type(resp), self._middlewares)
+AssertionError: Handler <class 'web.views.group.Group'> should return response instance, got <class 'dict'> [middlewares []]
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 7, in get
+    return Response(body='Hello world!', status=200)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 812, in __init__
+    self.body = body
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 823, in body
+    raise TypeError('body argument must be bytes (%r)' % type(body))
+TypeError: body argument must be bytes (<class 'str'>)
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 7, in get
+    return Response(body='Hello world!', status=200)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 812, in __init__
+    self.body = body
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 823, in body
+    raise TypeError('body argument must be bytes (%r)' % type(body))
+TypeError: body argument must be bytes (<class 'str'>)
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 7, in get
+    return Response(body='Hello world!', status=200)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 812, in __init__
+    self.body = body
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 823, in body
+    raise TypeError('body argument must be bytes (%r)' % type(body))
+TypeError: body argument must be bytes (<class 'str'>)
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 8, in get
+    return web.Response(body='Hello world!', status=200)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 812, in __init__
+    self.body = body
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 823, in body
+    raise TypeError('body argument must be bytes (%r)' % type(body))
+TypeError: body argument must be bytes (<class 'str'>)
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 8, in get
+    return web.Response(body='Hello world!', status=200)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 812, in __init__
+    self.body = body
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 823, in body
+    raise TypeError('body argument must be bytes (%r)' % type(body))
+TypeError: body argument must be bytes (<class 'str'>)
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 8, in get
+    return web.Response(body='Hello world!', status=200)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 812, in __init__
+    self.body = body
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 823, in body
+    raise TypeError('body argument must be bytes (%r)' % type(body))
+TypeError: body argument must be bytes (<class 'str'>)
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 8, in get
+    return web.Response(body='Hello world!', status=200)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 812, in __init__
+    self.body = body
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 823, in body
+    raise TypeError('body argument must be bytes (%r)' % type(body))
+TypeError: body argument must be bytes (<class 'str'>)
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 8, in get
+    return web.Response(body='Hello world!', status=200)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 812, in __init__
+    self.body = body
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 823, in body
+    raise TypeError('body argument must be bytes (%r)' % type(body))
+TypeError: body argument must be bytes (<class 'str'>)
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 8, in get
+    return web.Response(body='Hello world!', status=200)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 812, in __init__
+    self.body = body
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 823, in body
+    raise TypeError('body argument must be bytes (%r)' % type(body))
+TypeError: body argument must be bytes (<class 'str'>)
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 92, in handle_request
+    match_info.handler, type(resp), self._middlewares)
+AssertionError: Handler <class 'web.views.group.Group'> should return response instance, got <class 'str'> [middlewares []]
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 92, in handle_request
+    match_info.handler, type(resp), self._middlewares)
+AssertionError: Handler <class 'web.views.group.Group'> should return response instance, got <class 'str'> [middlewares []]
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 92, in handle_request
+    match_info.handler, type(resp), self._middlewares)
+AssertionError: Handler <class 'web.views.group.Group'> should return response instance, got <class 'str'> [middlewares []]
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 92, in handle_request
+    match_info.handler, type(resp), self._middlewares)
+AssertionError: Handler <class 'web.views.group.Group'> should return response instance, got <class 'str'> [middlewares []]
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 8, in get
+    return web.Response(text='text', body='test')
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 776, in __init__
+    raise ValueError("body and text are not allowed together.")
+ValueError: body and text are not allowed together.
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 8, in get
+    return web.Response(text='text', body='test')
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 776, in __init__
+    raise ValueError("body and text are not allowed together.")
+ValueError: body and text are not allowed together.
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 8, in get
+    return web.Response(text='text', body='test')
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 776, in __init__
+    raise ValueError("body and text are not allowed together.")
+ValueError: body and text are not allowed together.
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 8, in get
+    return web.Response(body='test')
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 776, in __init__
+    raise ValueError("body and text are not allowed together.")
+ValueError: body and text are not allowed together.
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 8, in get
+    return web.Response(body='test')
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 776, in __init__
+    raise ValueError("body and text are not allowed together.")
+ValueError: body and text are not allowed together.
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 8, in get
+    return web.Response(body='test')
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 812, in __init__
+    self.body = body
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 823, in body
+    raise TypeError('body argument must be bytes (%r)' % type(body))
+TypeError: body argument must be bytes (<class 'str'>)
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 8, in get
+    return web.Response(body='test')
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 812, in __init__
+    self.body = body
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 823, in body
+    raise TypeError('body argument must be bytes (%r)' % type(body))
+TypeError: body argument must be bytes (<class 'str'>)
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 8, in get
+    return web.Response(body='test')
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 812, in __init__
+    self.body = body
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 823, in body
+    raise TypeError('body argument must be bytes (%r)' % type(body))
+TypeError: body argument must be bytes (<class 'str'>)
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 8, in get
+    return web.Response(body='test')
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 812, in __init__
+    self.body = body
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 823, in body
+    raise TypeError('body argument must be bytes (%r)' % type(body))
+TypeError: body argument must be bytes (<class 'str'>)
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+WARNING:anyconfig.template:Jinja2 is not available on your system, so template support will be disabled.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 21, in middleware
+    db_inf = settings.database
+AttributeError: 'MergeableDict' object has no attribute 'database'
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 86, in handle_request
+    handler = yield from factory(app, handler)
+  File "/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/asyncio/coroutines.py", line 206, in coro
+    res = func(*args, **kw)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp_debugtoolbar/middlewares.py", line 19, in middleware
+    raise RuntimeError('Please setup debug toolbar with '
+RuntimeError: Please setup debug toolbar with aiohttp_debugtoolbar.setup method
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 86, in handle_request
+    handler = yield from factory(app, handler)
+  File "/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/asyncio/coroutines.py", line 206, in coro
+    res = func(*args, **kw)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp_debugtoolbar/middlewares.py", line 19, in middleware
+    raise RuntimeError('Please setup debug toolbar with '
+RuntimeError: Please setup debug toolbar with aiohttp_debugtoolbar.setup method
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 21, in middleware
+    db_inf = settings.database
+AttributeError: 'MergeableDict' object has no attribute 'database'
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 21, in middleware
+    db_inf = settings.database
+AttributeError: 'MergeableDict' object has no attribute 'database'
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 21, in middleware
+    db_inf = settings.database
+AttributeError: 'MergeableDict' object has no attribute 'database'
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 21, in middleware
+    db_inf = settings.database
+AttributeError: 'MergeableDict' object has no attribute 'database'
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('INSERT INTO "group" ("created_at", "name") VALUES (?, ?)', [datetime.datetime(2016, 2, 8, 23, 10, 46, 554518), 'Test'])
+DEBUG:peewee:('INSERT INTO "group" ("created_at", "name") VALUES (?, ?)', [datetime.datetime(2016, 2, 8, 23, 12, 53, 916220), 'Test'])
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name"', [])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp_debugtoolbar/middlewares.py", line 119, in toolbar_middleware
+    toolbar.status = response.status
+AttributeError: 'NoneType' object has no attribute 'status'
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name"', [])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp_debugtoolbar/middlewares.py", line 119, in toolbar_middleware
+    toolbar.status = response.status
+AttributeError: 'NoneType' object has no attribute 'status'
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name"', [])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp_debugtoolbar/middlewares.py", line 119, in toolbar_middleware
+    toolbar.status = response.status
+AttributeError: 'NoneType' object has no attribute 'status'
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name"', [])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp_debugtoolbar/middlewares.py", line 119, in toolbar_middleware
+    toolbar.status = response.status
+AttributeError: 'NoneType' object has no attribute 'status'
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name"', [])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp_debugtoolbar/middlewares.py", line 119, in toolbar_middleware
+    toolbar.status = response.status
+AttributeError: 'NoneType' object has no attribute 'status'
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name"', [])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp_debugtoolbar/middlewares.py", line 119, in toolbar_middleware
+    toolbar.status = response.status
+AttributeError: 'NoneType' object has no attribute 'status'
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name"', [])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp_debugtoolbar/middlewares.py", line 119, in toolbar_middleware
+    toolbar.status = response.status
+AttributeError: 'NoneType' object has no attribute 'status'
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+TypeError: 'Response' object is not iterable
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+TypeError: 'Response' object is not iterable
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 92, in handle_request
+    match_info.handler, type(resp), self._middlewares)
+AssertionError: Handler <class 'web.views.group.GroupView'> should return response instance, got <class 'models.group.Group'> [middlewares [<function db_handler.<locals>.factory at 0x10ac64620>]]
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 92, in handle_request
+    match_info.handler, type(resp), self._middlewares)
+AssertionError: Handler <class 'web.views.group.GroupView'> should return response instance, got <class 'models.group.Group'> [middlewares [<function db_handler.<locals>.factory at 0x10ac64620>]]
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('SELECT Count(*) FROM "group" AS t1', [])
+DEBUG:peewee:('SELECT Count(*) FROM "group" AS t1', [])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 92, in handle_request
+    match_info.handler, type(resp), self._middlewares)
+AssertionError: Handler <class 'web.views.group.GroupView'> should return response instance, got <class 'models.group.Group'> [middlewares [<function db_handler.<locals>.factory at 0x10e442840>]]
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('INSERT INTO "group" ("created_at", "name") VALUES (?, ?)', [datetime.datetime(2016, 2, 8, 23, 26, 58, 961195), 'Test'])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+sqlite3.IntegrityError: NOT NULL constraint failed: group.updated_at
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 11, in get
+    group.save()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 4680, in save
+    pk_from_cursor = self.insert(**field_dict).execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3213, in execute
+    cursor = self._execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 2628, in _execute
+    return self.database.execute_sql(sql, params, self.require_commit)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3461, in execute_sql
+    self.commit()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3285, in __exit__
+    reraise(new_type, new_type(*exc_args), traceback)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 127, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+peewee.IntegrityError: NOT NULL constraint failed: group.updated_at
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('INSERT INTO "group" ("created_at", "name") VALUES (?, ?)', [datetime.datetime(2016, 2, 8, 23, 27, 39, 723927), 'Test'])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+sqlite3.IntegrityError: NOT NULL constraint failed: group.updated_at
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 11, in get
+    group.save()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 4680, in save
+    pk_from_cursor = self.insert(**field_dict).execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3213, in execute
+    cursor = self._execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 2628, in _execute
+    return self.database.execute_sql(sql, params, self.require_commit)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3461, in execute_sql
+    self.commit()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3285, in __exit__
+    reraise(new_type, new_type(*exc_args), traceback)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 127, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+peewee.IntegrityError: NOT NULL constraint failed: group.updated_at
+DEBUG:peewee:('INSERT INTO "group" ("created_at", "name") VALUES (?, ?)', [datetime.datetime(2016, 2, 8, 23, 27, 43, 626432), 'Test'])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+sqlite3.IntegrityError: NOT NULL constraint failed: group.updated_at
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 11, in get
+    group.save()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 4680, in save
+    pk_from_cursor = self.insert(**field_dict).execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3213, in execute
+    cursor = self._execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 2628, in _execute
+    return self.database.execute_sql(sql, params, self.require_commit)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3461, in execute_sql
+    self.commit()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3285, in __exit__
+    reraise(new_type, new_type(*exc_args), traceback)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 127, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+peewee.IntegrityError: NOT NULL constraint failed: group.updated_at
+DEBUG:peewee:('INSERT INTO "group" ("created_at", "name") VALUES (?, ?)', [datetime.datetime(2016, 2, 8, 23, 27, 48, 714279), 'Test'])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+sqlite3.IntegrityError: NOT NULL constraint failed: group.updated_at
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 11, in get
+    group.save()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 4680, in save
+    pk_from_cursor = self.insert(**field_dict).execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3213, in execute
+    cursor = self._execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 2628, in _execute
+    return self.database.execute_sql(sql, params, self.require_commit)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3461, in execute_sql
+    self.commit()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3285, in __exit__
+    reraise(new_type, new_type(*exc_args), traceback)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 127, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+peewee.IntegrityError: NOT NULL constraint failed: group.updated_at
+DEBUG:peewee:('INSERT INTO "group" ("created_at", "name") VALUES (?, ?)', [datetime.datetime(2016, 2, 8, 23, 27, 50, 17861), 'Test'])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+sqlite3.IntegrityError: NOT NULL constraint failed: group.updated_at
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 11, in get
+    group.save()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 4680, in save
+    pk_from_cursor = self.insert(**field_dict).execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3213, in execute
+    cursor = self._execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 2628, in _execute
+    return self.database.execute_sql(sql, params, self.require_commit)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3461, in execute_sql
+    self.commit()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3285, in __exit__
+    reraise(new_type, new_type(*exc_args), traceback)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 127, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+peewee.IntegrityError: NOT NULL constraint failed: group.updated_at
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('INSERT INTO "group" ("created_at", "updated_at", "name") VALUES (?, ?, ?)', [datetime.datetime(2016, 2, 8, 23, 30, 45, 407506), datetime.datetime(2016, 2, 8, 23, 30, 45, 407557), 'Test'])
+DEBUG:peewee:('SELECT Count(*) FROM "group" AS t1', [])
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 92, in handle_request
+    match_info.handler, type(resp), self._middlewares)
+AssertionError: Handler <class 'web.views.group.GroupView'> should return response instance, got <class 'models.group.Group'> [middlewares [<function db_handler.<locals>.factory at 0x104dc7840>]]
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('INSERT INTO "group" ("created_at", "updated_at", "name") VALUES (?, ?, ?)', [datetime.datetime(2016, 2, 8, 23, 33, 26, 284356), datetime.datetime(2016, 2, 8, 23, 33, 26, 284397), 'Test'])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+sqlite3.IntegrityError: UNIQUE constraint failed: group.name
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 11, in get
+    group.save()
+  File "/Users/alex/Workspace/My/ssh_commander/models/base.py", line 18, in save
+    return super(BaseModel, self).save(*args, **kwargs)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 4680, in save
+    pk_from_cursor = self.insert(**field_dict).execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3213, in execute
+    cursor = self._execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 2628, in _execute
+    return self.database.execute_sql(sql, params, self.require_commit)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3461, in execute_sql
+    self.commit()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3285, in __exit__
+    reraise(new_type, new_type(*exc_args), traceback)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 127, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+peewee.IntegrityError: UNIQUE constraint failed: group.name
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('INSERT INTO "group" ("created_at", "updated_at", "name") VALUES (?, ?, ?)', [datetime.datetime(2016, 2, 8, 23, 33, 38, 299690), datetime.datetime(2016, 2, 8, 23, 33, 38, 299733), 'Test'])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+sqlite3.IntegrityError: UNIQUE constraint failed: group.name
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 11, in get
+    group.save()
+  File "/Users/alex/Workspace/My/ssh_commander/models/base.py", line 18, in save
+    return super(BaseModel, self).save(*args, **kwargs)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 4680, in save
+    pk_from_cursor = self.insert(**field_dict).execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3213, in execute
+    cursor = self._execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 2628, in _execute
+    return self.database.execute_sql(sql, params, self.require_commit)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3461, in execute_sql
+    self.commit()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3285, in __exit__
+    reraise(new_type, new_type(*exc_args), traceback)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 127, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+peewee.IntegrityError: UNIQUE constraint failed: group.name
+DEBUG:peewee:('INSERT INTO "group" ("created_at", "updated_at", "name") VALUES (?, ?, ?)', [datetime.datetime(2016, 2, 8, 23, 33, 41, 528521), datetime.datetime(2016, 2, 8, 23, 33, 41, 528558), 'Test'])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+sqlite3.IntegrityError: UNIQUE constraint failed: group.name
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 11, in get
+    group.save()
+  File "/Users/alex/Workspace/My/ssh_commander/models/base.py", line 18, in save
+    return super(BaseModel, self).save(*args, **kwargs)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 4680, in save
+    pk_from_cursor = self.insert(**field_dict).execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3213, in execute
+    cursor = self._execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 2628, in _execute
+    return self.database.execute_sql(sql, params, self.require_commit)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3461, in execute_sql
+    self.commit()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3285, in __exit__
+    reraise(new_type, new_type(*exc_args), traceback)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 127, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+peewee.IntegrityError: UNIQUE constraint failed: group.name
+DEBUG:peewee:('INSERT INTO "group" ("created_at", "updated_at", "name") VALUES (?, ?, ?)', [datetime.datetime(2016, 2, 8, 23, 33, 43, 406705), datetime.datetime(2016, 2, 8, 23, 33, 43, 406752), 'Test'])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+sqlite3.IntegrityError: UNIQUE constraint failed: group.name
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 11, in get
+    group.save()
+  File "/Users/alex/Workspace/My/ssh_commander/models/base.py", line 18, in save
+    return super(BaseModel, self).save(*args, **kwargs)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 4680, in save
+    pk_from_cursor = self.insert(**field_dict).execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3213, in execute
+    cursor = self._execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 2628, in _execute
+    return self.database.execute_sql(sql, params, self.require_commit)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3461, in execute_sql
+    self.commit()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3285, in __exit__
+    reraise(new_type, new_type(*exc_args), traceback)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 127, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+peewee.IntegrityError: UNIQUE constraint failed: group.name
+DEBUG:peewee:('INSERT INTO "group" ("created_at", "updated_at", "name") VALUES (?, ?, ?)', [datetime.datetime(2016, 2, 8, 23, 33, 47, 669518), datetime.datetime(2016, 2, 8, 23, 33, 47, 669556), 'Test'])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+sqlite3.IntegrityError: UNIQUE constraint failed: group.name
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 11, in get
+    group.save()
+  File "/Users/alex/Workspace/My/ssh_commander/models/base.py", line 18, in save
+    return super(BaseModel, self).save(*args, **kwargs)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 4680, in save
+    pk_from_cursor = self.insert(**field_dict).execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3213, in execute
+    cursor = self._execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 2628, in _execute
+    return self.database.execute_sql(sql, params, self.require_commit)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3461, in execute_sql
+    self.commit()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3285, in __exit__
+    reraise(new_type, new_type(*exc_args), traceback)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 127, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+peewee.IntegrityError: UNIQUE constraint failed: group.name
+DEBUG:peewee:('INSERT INTO "group" ("created_at", "updated_at", "name") VALUES (?, ?, ?)', [datetime.datetime(2016, 2, 8, 23, 33, 48, 75427), datetime.datetime(2016, 2, 8, 23, 33, 48, 75476), 'Test'])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+sqlite3.IntegrityError: UNIQUE constraint failed: group.name
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 11, in get
+    group.save()
+  File "/Users/alex/Workspace/My/ssh_commander/models/base.py", line 18, in save
+    return super(BaseModel, self).save(*args, **kwargs)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 4680, in save
+    pk_from_cursor = self.insert(**field_dict).execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3213, in execute
+    cursor = self._execute()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 2628, in _execute
+    return self.database.execute_sql(sql, params, self.require_commit)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3461, in execute_sql
+    self.commit()
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3285, in __exit__
+    reraise(new_type, new_type(*exc_args), traceback)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 127, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/peewee.py", line 3454, in execute_sql
+    cursor.execute(sql, params or ())
+peewee.IntegrityError: UNIQUE constraint failed: group.name
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 15, in get
+    return model_to_dict(groups) #web.Response(text='test')
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/playhouse/shortcuts.py", line 102, in model_to_dict
+    for field in model._meta.sorted_fields:
+AttributeError: 'SelectQuery' object has no attribute '_meta'
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 15, in get
+    return model_to_dict(groups) #web.Response(text='test')
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/playhouse/shortcuts.py", line 102, in model_to_dict
+    for field in model._meta.sorted_fields:
+AttributeError: 'SelectQuery' object has no attribute '_meta'
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 92, in handle_request
+    match_info.handler, type(resp), self._middlewares)
+AssertionError: Handler <class 'web.views.group.GroupView'> should return response instance, got <class 'dict'> [middlewares [<function db_handler.<locals>.factory at 0x1107ed620>]]
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 15, in get
+    return web.Response(text=model_to_dict(groups.get()))
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 783, in __init__
+    type(text))
+TypeError: text argument must be str (<class 'dict'>)
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+ERROR:aiohttp.web:Error handling request
+Traceback (most recent call last):
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/server.py", line 266, in start
+    yield from self.handle_request(message, payload)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web.py", line 87, in handle_request
+    resp = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/manage.py", line 23, in middleware
+    response = yield from handler(request)
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_urldispatcher.py", line 390, in __iter__
+    resp = yield from method()
+  File "/Users/alex/Workspace/My/ssh_commander/web/views/group.py", line 15, in get
+    return web.Response(text=model_to_dict(groups.get()))
+  File "/Users/alex/Workspace/My/ssh_commander/.env/lib/python3.5/site-packages/aiohttp/web_reqrep.py", line 783, in __init__
+    type(text))
+TypeError: text argument must be str (<class 'dict'>)
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Connecting to db...
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+INFO:__main__:Closing connection to db...
+INFO:__main__:Connecting to db...
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+INFO:__main__:Closing connection to db...
+INFO:__main__:Connecting to db...
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+INFO:__main__:Closing connection to db...
+INFO:__main__:Connecting to db...
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+INFO:__main__:Closing connection to db...
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+INFO:anyconfig.backends:yaml module is not available. Disabled YAML support.
+INFO:anyconfig.backends:ConfigObj module is not available. Disabled its support.
+INFO:anyconfig.backends:msgpack module is not available. Disabled MessagePack support.
+INFO:anyconfig.backends:toml module is not available. Disabled TOML support.
+INFO:anyconfig.backends:bson module in pymongo package is not available. Disabled BSON support.
+DEBUG:anyconfig:Using config parser: <class 'anyconfig.backend.json.Parser'> [json]
+INFO:anyconfig:Loading: /Users/alex/Workspace/My/ssh_commander/core/settings.json
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+DEBUG:peewee:('SELECT "t1"."id", "t1"."created_at", "t1"."updated_at", "t1"."name" FROM "group" AS t1 ORDER BY "t1"."name" LIMIT 1', [])
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+DEBUG:asyncio:Using selector: KqueueSelector
+DEBUG:asyncio:Using selector: KqueueSelector
+DEBUG:asyncio:Using selector: KqueueSelector
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.

@@ -1,0 +1,10 @@
+{
+  "application": {
+    "host": "localhost",
+    "port": 8080,
+    "debug": true
+  },
+  "database": {
+    "name": "data.db"
+  }
+}
