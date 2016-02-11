@@ -7,11 +7,11 @@ from models.group import Group
 
 class Host(BaseModel):
 
-    group = ForeignKeyField(Group, related_name='hosts')
+    group = ForeignKeyField(Group, related_name='hosts', null=True)
 
-    hostname = CharField(max_length=24)
+    hostname = CharField(max_length=24, unique=True)
 
-    ip_address = CharField(max_length=16)
+    ip_address = CharField(max_length=16, unique=True)
 
     username = CharField(max_length=24)
 
