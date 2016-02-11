@@ -11,7 +11,7 @@ DEFAULTS = {
         'debug': False,
     },
     'database': {
-        'name': 'data.db',
+        'name': 'data.sqlite',
         'user': 'root',
         'password': '',
     }

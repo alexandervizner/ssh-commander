@@ -5,6 +5,6 @@
     "debug": true
   },
   "database": {
-    "name": "data.db"
+    "name": "data.sqlite"
   }
 }

@@ -1756,3 +1756,7 @@ DEBUG:asyncio:Using selector: KqueueSelector
 INFO:__main__:Server launched ('127.0.0.1', 8080).
 INFO:__main__:Stopping server...
 INFO:__main__:Server stopped.
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:Server launched ('127.0.0.1', 8080).
+INFO:__main__:Stopping server...
+INFO:__main__:Server stopped.
